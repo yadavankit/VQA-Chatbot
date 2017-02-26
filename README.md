@@ -8,11 +8,11 @@ A Chatbot based on Visual Question Answering(VQA)
 1. Setting up VQA Chatbot on your local system is really easy. Follow the following steps:
 
     ```shell
-    git clone https://github.com/deshraj/vqa_chatbot.git
-    cd vqa_chatbot
+    git clone https://github.com/deshraj/VQA-Chatbot.git
+    cd VQA-Chatbot
     virtualenv env
     source env/bin/activate
-    pip install -requirements.txt
+    pip install -r requirements.txt
     ```
 
 2. Install pytorch using following commands:
